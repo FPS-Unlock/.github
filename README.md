@@ -1,4 +1,4 @@
-# RBX FPS Unlocker - Setup Assitant
+# RBX FPS Unlocker - Setup Assistant
 
 [![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](#)
 
